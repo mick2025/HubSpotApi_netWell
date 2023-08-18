@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "apI/IT4niUE4BoBrD7AiB7zvoHGyzT5atSr1TD/Nyks=",
+  "Source": "HubSpotApi",
+  "BasePath": "_content/HubSpotApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

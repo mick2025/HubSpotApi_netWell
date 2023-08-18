@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HubSpotApi.props" />
+</Project>
